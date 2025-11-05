@@ -3,5 +3,4 @@ matplotlib
 seaborn
 pandas
 colorama
-scikit-learn
 warnings
