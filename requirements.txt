@@ -4,3 +4,4 @@ seaborn
 pandas
 colorama
 scikit-learn
+shap
