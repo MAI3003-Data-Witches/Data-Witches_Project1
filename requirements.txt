@@ -5,3 +5,4 @@ pandas
 colorama
 scikit-learn
 shap
+statsmodels
